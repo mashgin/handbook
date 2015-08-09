@@ -1,6 +1,6 @@
 # Summary
 
-* Guiding Principles
+* [Guiding Principles](README.md)
 * Rules & Responsibilities
 * Collaboration
 * [Engineering](engineering.md)
