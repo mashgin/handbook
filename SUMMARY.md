@@ -4,7 +4,6 @@
 * Rules & Responsibilities
 * Collaboration
 * Expectations
-
-Roles
-* [Engineering](engineering.md)
+* Roles
+    * [Engineering](engineering.md)
 
