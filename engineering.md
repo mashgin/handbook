@@ -6,7 +6,7 @@
 * `dev` branch -- current development branch. Added features should be created seperately and merged into `dev`. Bug & hot fixes can be commited directly. 
 * **Feature** or **experimental** branches
 
-**Master branch** should be tagged with release versions: <version or name>-<date in YYYYMMDD>
+**Master branch** should be tagged with release versions: `<version/name>-<YYYYMMDD>`
 ```sh
 $ git tag demo-20150805
 ```
