@@ -1,9 +1,11 @@
 # Mashgin Team Handbook
 
-* [Guiding Principles](#principles)
+* [Guiding Principles](README.md#principles)
 * Rules & Responsibilities
 * Collaboration
-* [Engineering](engineering.md)
+* Expectations
+* Roles
+    * [Engineering](engineering.md)
 
 <a name="principles"/>
 ## Guiding Principles
